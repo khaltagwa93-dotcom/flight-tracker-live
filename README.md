@@ -1,2 +1,3 @@
-# flight-tracker-live
-تتبع الطيران اللحظي - Real-time global flight tracker powered by OpenSky Network ADS-B
+# Flight Tracker Live | تتبع الطيران اللحظي
+
+أداة تتبع حركة الطيران لحظياً حول العالم باستخدام بيانات ADS-B الحقيقية من OpenSky Network.
